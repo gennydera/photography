@@ -1,0 +1,58 @@
+body{
+	height: 100%;
+	width: 100%;
+}
+
+.container h5{
+	padding-top: 100px !important;
+    text-align: center !important;
+    color: #ffffff !important;
+    font-size: 64px !important;
+    font-family: Poppins, sans-serif;
+    font-style: normal !important;
+    font-weight: bold !important;
+}
+
+#bgimage{
+	background-image: url(images/Rectangle3.svg) !important;
+    background-repeat: no-repeat !important;
+}
+
+#d-flex{
+	border: 1px  #FBD46D;
+    box-sizing: border-box;
+    padding-top: 15px !important;
+    padding-bottom: 120px !important;
+}
+
+.container a text{
+	text-decoration: underline !important;
+	border: 3px solid #FBD46D !important;
+}
+
+#text{
+	width: 100%;
+   margin: 0 15px !important;
+   padding: 0 auto !important;
+}
+
+.justify-content-end {
+    justify-content: space-between !important;
+}
+
+#footer{
+	background-image: url(images/Container.png);
+	background-repeat: no-repeat;
+}
+
+#footer h3{
+	font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+}
+
+.rgba-white-light{
+	opacity: 0.5;
+    border: 1px solid #FFFFFF;
+}
